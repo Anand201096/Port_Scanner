@@ -1,5 +1,6 @@
 import sys
 import socket
+import os
 import pyfiglet
 import time
 from cfonts import render
